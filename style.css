@@ -9,6 +9,12 @@ canvas {
 .Title{
 
 position: absolute;
-color: red;
+color: rgb(0, 0, 0);
+font-size:x-large;
+}
+
+body{
+
+background-image: url('Background-color.png');
 
 }
